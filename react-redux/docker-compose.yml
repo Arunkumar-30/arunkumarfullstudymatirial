@@ -1,0 +1,14 @@
+services:
+  frontend:
+    build: ./frondend   
+    ports:
+      - "3001:3001"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./backend/server
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/server/db.json:/app/db.json
