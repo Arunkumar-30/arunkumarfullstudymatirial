@@ -1,0 +1,33 @@
+30-Day LeetCode SQL Plan
+Week 1 (Basics)
+175
+181
+182
+183
+196
+197
+577
+Week 2 (JOINs)
+570
+1068
+1378
+1581
+1280
+584
+595
+Week 3 (GROUP BY & Subqueries)
+596
+607
+619
+511
+586
+180
+184
+Week 4 (Advanced)
+176
+177
+178
+185
+262
+601
+550
